@@ -1,7 +1,7 @@
 # ps-monitor-morse-code
 Allows you to type morse code by closing your laptop lid.
 
-##To run:
+### To run:
 1. Ensure that your primary monitor is your built-in laptop monitor.
 2. Open the "Change what closing the lid does" setting (Control Panel\Hardware and Sound\Power Options\System Settings), you should be able to search for the setting
 3. Set "When I close the lid" to "Do nothing:"
